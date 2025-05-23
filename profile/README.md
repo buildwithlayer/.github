@@ -23,6 +23,6 @@
 <br/>
 
 **Open Source Libraries**
-- `OpenAPI to MCP Tools Converter` - (Coming Soon)
+- [`OpenAPI to MCP Tools Converter`](https://github.com/buildwithlayer/openapi-to-tools) - This is a simple package to convert OpenAPI routes to tools to be used by MCP servers or other LLM applications.
 - `OpenAPI Zod Schemas` - (Coming Soon)
 - `JSON Schema Zod Schemas` - (Coming Soon)
